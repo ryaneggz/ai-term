@@ -1,5 +1,7 @@
+python-dotenv
 langgraph
 langchain_anthropic
 langchain_openai
 langchain-community
 langchain-experimental
+setuptools
